@@ -27,6 +27,5 @@ En esos casos, el sistema mostrará un mensaje indicando que el área de planifi
 Esto no es un error crítico, simplemente significa que esa área ya estaba registrada.
 
 **Archivos necesarios**
-
-_ Plantilla de datos: "Plantilla Areas de Planificacion.xlsx"
-_ Script que ejecuta el cambio: "Cargue_Planif.vbs"
+   - Plantilla de datos: "Plantilla Areas de Planificacion.xlsx"
+   - Script que ejecuta el cambio: "Cargue_Planif.vbs"
