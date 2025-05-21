@@ -22,9 +22,9 @@ Este proceso permite registrar automáticamente las áreas de planificación en 
    - Si aparece un mensaje diferente, significa que hubo un error en esa línea. Revisa el mensaje para identificar el problema.
 
 **Información adicional**
-Es común que los usuarios incluyan áreas de planificación que ya existen en SAP.
-En esos casos, el sistema mostrará un mensaje indicando que el área de planificación ya fue asignada.
-Esto no es un error crítico, simplemente significa que esa área ya estaba registrada.
+   Es común que los usuarios incluyan áreas de planificación que ya existen en SAP.
+   En esos casos, el sistema mostrará un mensaje indicando que el área de planificación ya fue asignada.
+   Esto no es un error crítico, simplemente significa que esa área ya estaba registrada.
 
 **Archivos necesarios**
    - Plantilla de datos: "Plantilla Areas de Planificacion.xlsx"
